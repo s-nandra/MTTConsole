@@ -1,0 +1,11 @@
+C:\Users\satna\source\repos\MTTConsole\MTTConsole\bin\Debug\netcoreapp2.2\MTTConsole.deps.json
+C:\Users\satna\source\repos\MTTConsole\MTTConsole\bin\Debug\netcoreapp2.2\MTTConsole.runtimeconfig.json
+C:\Users\satna\source\repos\MTTConsole\MTTConsole\bin\Debug\netcoreapp2.2\MTTConsole.runtimeconfig.dev.json
+C:\Users\satna\source\repos\MTTConsole\MTTConsole\bin\Debug\netcoreapp2.2\MTTConsole.dll
+C:\Users\satna\source\repos\MTTConsole\MTTConsole\bin\Debug\netcoreapp2.2\MTTConsole.pdb
+C:\Users\satna\source\repos\MTTConsole\MTTConsole\obj\Debug\netcoreapp2.2\MTTConsole.csproj.CoreCompileInputs.cache
+C:\Users\satna\source\repos\MTTConsole\MTTConsole\obj\Debug\netcoreapp2.2\MTTConsole.AssemblyInfoInputs.cache
+C:\Users\satna\source\repos\MTTConsole\MTTConsole\obj\Debug\netcoreapp2.2\MTTConsole.AssemblyInfo.cs
+C:\Users\satna\source\repos\MTTConsole\MTTConsole\obj\Debug\netcoreapp2.2\MTTConsole.dll
+C:\Users\satna\source\repos\MTTConsole\MTTConsole\obj\Debug\netcoreapp2.2\MTTConsole.pdb
+C:\Users\satna\source\repos\MTTConsole\MTTConsole\obj\Debug\netcoreapp2.2\MTTConsole.csprojAssemblyReference.cache
